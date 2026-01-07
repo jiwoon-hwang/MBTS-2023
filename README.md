@@ -122,5 +122,5 @@ If you use data or code from this repository, please cite the paper listed above
 <h2>Contact</h2>
 
 <p>
-For questions related to the data or analysis, please contact the corresponding author listed in the publication.
+For questions related to the data or analysis, please contact the corresponding author listed in the publication, Bethanie Edwards.
 </p>
